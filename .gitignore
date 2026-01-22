@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pid
+.vscode/
+.idea/
+venv/
+env/
+vibe.bat
